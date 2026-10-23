@@ -135,3 +135,4 @@ minima:
     - navigation/courses.md
     - navigation/capstone.md
     - navigation/search.md
+    - navigation/authentication/dm.md

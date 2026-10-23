@@ -1,7 +1,7 @@
 ---
 layout: opencs
-title: Direct Messages
-permalink: /dm
+title: Chat
+permalink: /dm/
 search_exclude: true
 ---
 
